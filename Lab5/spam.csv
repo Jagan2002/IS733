@@ -1,0 +1,41 @@
+Dataset,Email_ID,Content,win,click,team,claim,reminder,Category
+train,1,Click here to win a special prize!,1,1,0,0,0,Spam
+train,2,Team meeting rescheduled. Check the portal and click for details.,0,1,1,0,0,Ham
+train,3,Claim your free vacation package now!,0,0,0,1,0,Spam
+train,4,A reminder for tomorrow's team-building exercise.,0,0,1,0,1,Ham
+train,5,Win a brand new car by participating in our survey!,1,0,0,0,0,Spam
+train,6,The reminder for project deadlines is attached.,0,0,0,0,1,Ham
+train,7,Join our team and win exciting bonuses!,1,0,1,0,0,Spam
+train,8,Click on the link for the annual team outing details.,0,1,1,0,0,Ham
+train,9,Last chance to claim your lottery money!,0,0,0,1,0,Spam
+train,10,The team has shared the minutes of the meeting. Click to access.,0,1,1,0,0,Ham
+train,11,Team's quarterly review is scheduled for next Monday.,0,0,1,0,0,Ham
+train,12,You won't believe how this single trick can help you win cash!,1,0,0,0,0,Spam
+train,13,Click here to review the latest project updates.,0,1,0,0,0,Ham
+train,14,Exclusive offer! Claim your free gift card now.,0,0,0,1,0,Spam
+train,15,Reminder: Year-end team gathering is on the 20th.,0,0,1,0,1,Ham
+test,1,Reminder: Team offsite next weekend.,0,0,1,0,1,Ham
+test,2,You've been selected! Click to win an iPhone!,1,1,0,0,0,Spam
+test,3,The team needs to click and confirm their meal preferences.,0,1,1,0,0,Ham
+test,4,Hurry up and claim your free shopping voucher!,0,0,0,1,0,Spam
+test,5,A gentle reminder about the team's presentation tomorrow.,0,0,1,0,1,Ham
+test,6,Win big with our year-end lottery! Click now.,1,1,0,0,0,Spam
+test,7,Team feedback session next week. Don't forget!,0,0,1,0,0,Ham
+test,8,Your prize is waiting! Click and claim.,0,1,0,1,0,Spam
+test,9,Can you send a reminder for the team's training session?,0,0,1,0,1,Ham
+test,10,Lucky you! Win a trip to Paris.,1,0,0,0,0,Spam
+test,11,Congratulations! You've been chosen. Click to get your prize.,0,1,0,0,0,Spam
+test,12,Please ensure the team completes the mandatory training this week.,0,0,1,0,0,Ham
+test,13,Unlock your secret bonus by clicking this hidden link!,0,1,0,0,0,Spam
+test,14,Team appreciation mail: Thank you for your hard work this quarter.,0,0,1,0,0,Ham
+test,15,Reveal what the future holds! Win a free tarot reading.,1,0,0,0,0,Spam
+test,16,Team's quarterly review is scheduled for next Monday.,0,0,1,0,0,Ham
+test,17,You won't believe how this single trick can help you win cash!,1,0,0,0,0,Spam
+test,18,Click here to review the latest project updates.,0,1,0,0,0,Ham
+test,19,Exclusive offer! Claim your free gift card now.,0,0,0,1,0,Spam
+test,20,Reminder: Year-end team gathering is on the 20th.,0,0,1,0,1,Ham
+test,21,Congratulations! You've been chosen. Click to get your prize.,0,1,0,0,0,Spam
+test,22,Please ensure the team completes the mandatory training this week.,0,0,1,0,0,Ham
+test,23,Unlock your secret bonus by clicking this hidden link!,0,1,0,0,0,Spam
+test,24,Team appreciation mail: Thank you for your hard work this quarter.,0,0,1,0,0,Ham
+test,25,Reveal what the future holds! Win a free tarot reading.,1,0,0,0,0,Spam
